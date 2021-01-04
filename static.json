@@ -3,6 +3,8 @@
   "/*": {
      "X-Author": "baller23",
      "Access-Control-Allow-Origin": "*"
+      "text/plain; charset=UTF-8"
+      }
     }
   }
 }
